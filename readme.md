@@ -13,7 +13,16 @@ Crystallite Linux is designed to be distributed as a QEMU RAW disk image for use
 (There is also a Virtualbox image for testers)
 
 ## Credits
-- Nitelite: Creating in the image, Customizing the LXQT and configuring the distro
+- Nitelite: Creating the image, Customizing the LXQT and configuring the distro
+
+## Images
+Prebuilt images are available for download from the Google Drive link Below:
+
+QEMU RAW:
+
+Virtualbox VDI:
+
+
 
 
 
