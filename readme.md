@@ -18,9 +18,8 @@ Crystallite Linux is designed to be distributed as a QEMU RAW disk image for use
 ## Images
 Prebuilt images are available for download from the Google Drive link Below:
 
-QEMU RAW:
+QEMU RAW: https://drive.google.com/file/d/1ei1QbYWT95GCzEoqWJNksJZB-ynCzTuH/view?usp=share_link
 
-Virtualbox VDI:
 
 
 
