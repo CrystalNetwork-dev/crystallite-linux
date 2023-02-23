@@ -8,7 +8,7 @@ Crystallite is a Linux "Distro" that is deisgned for the Crystallite project, a 
 - Fully functional LXQT Desktop Enviornment
 - Firefox
 - Flatpak Preinstalled
-- 
+
 Crystallite Linux is designed to be distributed as a QEMU RAW disk image for use in the v86 engine.
 (There is also a Virtualbox image for testers)
 
